@@ -3,7 +3,7 @@ package handlebars
 import (
 	"testing"
 
-	"github.com/mailgun/raymond/v2"
+	"github.com/bekabaz/raymond/v2"
 )
 
 //
